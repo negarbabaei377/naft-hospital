@@ -1,0 +1,23 @@
+@font-face {
+    font-family: dana;
+    font-style: normal;
+    font-weight: normal;
+    src: url('/assets/fonts/dana/woff2/DanaFaNum-Regular.woff2');
+    src: url('/assets/fonts/dana/woff2/DanaFaNum-Regular.woff2') format('woff2'), url('/assets/fonts/dana/woff/DanaFaNum-Regular.woff') format('woff'), url('/assets/fonts/dana/ttf/DanaFaNum-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: dana;
+    font-style: normal;
+    font-weight: 300;
+    src: url('/assets/fonts/dana/woff2/DanaFaNum-Ligt.woff2');
+    src: url('/assets/fonts/dana/woff2/DanaFaNum-Ligt.woff2') format('woff2'), url('/assets/fonts/dana/woff/DanaFaNum-Ligt.woff') format('woff'), url('/assets/fonts/dana/ttf/DanaFaNum-Ligt.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: dana;
+    font-style: normal;
+    font-weight: bold;
+    src: url('/assets/fonts/dana/woff2/DanaFaNum-Bold.woff2');
+    src: url('/assets/fonts/dana/woff2/DanaFaNum-Bold.woff2') format('woff2'), url('/assets/fonts/dana/woff/DanaFaNum-Bold.woff') format('woff'), url('/assets/fonts/dana/ttf/DanaFaNum-Bold.ttf') format('truetype');
+}
